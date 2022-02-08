@@ -1,8 +1,8 @@
 class Strings {
   // App
-  static const appTitle = 'App Name';
+  static const appTitle = 'Meta Counter App';
 
   // HomeScreen
-  static const counterScreenTitle = 'Home Screen';
+  static const counterScreenTitle = 'Counter Screen';
   static const counterScreenCenterText = 'Meta CounterApp!';
 }
