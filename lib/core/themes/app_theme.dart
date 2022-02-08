@@ -6,12 +6,10 @@ class AppTheme {
 
   static Color lightBackgrounColor = const Color(0xfff2f2f2);
   static Color lightPrimaryColor = const Color(0xfff2f2f2);
-  //static Color lightAccentColor = Colors.blueGrey.shade200;
   static Color lightParticleColor = const Color(0x44948282);
 
   static Color darkBackgrounColor = const Color(0xff1A2127);
   static Color darkPrimaryColor = const Color(0xff1A2127);
-  //static Color darkAccentColor = Colors.blueGrey.shade600;
   static Color darkParticleColor = const Color(0x441C2A30);
 
   static final lightTheme = ThemeData(
